@@ -132,3 +132,6 @@
 2018-05-15 13:36:40,228 | INFO     | 0188 | renaming node PartE.csv new name: Part_E.csv
 2018-05-15 13:36:40,250 | INFO     | 0283 | updating node
 2018-05-15 13:36:40,259 | INFO     | 0188 | renaming node PartD.csv new name: Part_D.csv
+2018-05-15 13:40:34,241 | INFO     | 0283 | updating node
+2018-05-15 13:40:35,231 | INFO     | 0170 | updating node NPS_Part_D.R task status: not started assigned to: not assigned
+2018-05-15 13:40:35,242 | INFO     | 0188 | renaming node NPS_Part_D.R new name: NPS_Function.R
