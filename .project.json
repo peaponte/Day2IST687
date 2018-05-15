@@ -162,6 +162,10 @@
         {
             "source": "LTR_Data.csv",
             "target": "NPS_Function_1.R"
+        },
+        {
+            "source": "LTR_Data_E_2.csv",
+            "target": "NPS_Function_2.R"
         }
     ]
 }
