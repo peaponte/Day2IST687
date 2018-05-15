@@ -67,3 +67,6 @@
 2018-05-15 12:05:58,831 | ERROR    | 0155 | failed clean.R
 2018-05-15 12:10:19,552 | INFO     | 0155 | shutdown called
 2018-05-15 12:10:32,992 | INFO     | 0085 | user logged in: alexbruso
+2018-05-15 12:10:43,655 | INFO     | 0207 | user started full network run
+2018-05-15 12:10:44,213 | INFO     | 0112 | running node clean.R
+2018-05-15 12:10:44,458 | ERROR    | 0155 | failed clean.R
