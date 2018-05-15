@@ -13,23 +13,24 @@
             "name": "descriptive_stats.R"
         },
         {
-            "name": "NPS_functions.R",
+            "name": "NPS_Function.R",
             "task_status": "not started",
             "assigned_to": "not assigned"
         },
         {
-            "name": "NPS_Data.csv"
+            "name": "LTR_Data.csv"
         },
         {
-            "name": "data_7865.csv"
+            "name": "Part_E.csv"
         },
         {
-            "name": "LTR_Data.R",
-            "task_status": "not started",
-            "assigned_to": "not assigned"
+            "name": "Descriptive_stats.csv"
         },
         {
-            "name": "script_6164.R"
+            "name": "NPS_Part_E.R"
+        },
+        {
+            "name": "Fetch_LTR.R"
         }
     ],
     "edges": [
@@ -46,20 +47,28 @@
             "target": "descriptive_stats.R"
         },
         {
-            "source": "cleandata.csv",
-            "target": "NPS_functions.R"
-        },
-        {
-            "source": "NPS_functions.R",
-            "target": "NPS_Data.csv"
+            "source": "descriptive_stats.R",
+            "target": "Descriptive_stats.csv"
         },
         {
             "source": "cleandata.csv",
-            "target": "LTR_Data.R"
+            "target": "NPS_Part_E.R"
         },
         {
-            "source": "NPS_functions.R",
-            "target": "data_7865.csv"
+            "source": "NPS_Part_E.R",
+            "target": "Part_E.csv"
+        },
+        {
+            "source": "cleandata.csv",
+            "target": "Fetch_LTR.R"
+        },
+        {
+            "source": "Fetch_LTR.R",
+            "target": "LTR_Data.csv"
+        },
+        {
+            "source": "LTR_Data.csv",
+            "target": "NPS_Function.R"
         }
     ]
 }

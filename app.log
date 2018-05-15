@@ -108,3 +108,41 @@
 2018-05-15 13:24:07,543 | INFO     | 0103 | adding node script_6164.R
 2018-05-15 13:24:58,193 | INFO     | 0123 | adding edge source: NPS_functions.R target: data_7865.csv
 2018-05-15 13:25:10,455 | INFO     | 0264 | user started git push
+2018-05-15 13:25:19,767 | INFO     | 0356 | merge successful
+2018-05-15 13:25:30,037 | INFO     | 0308 | user deleting node script_6164.R
+2018-05-15 13:26:03,143 | INFO     | 0283 | updating node
+2018-05-15 13:26:03,848 | INFO     | 0188 | renaming node data_7865.csv new name: NPS_overall_data.csv
+2018-05-15 13:27:08,672 | INFO     | 0103 | adding node Descriptive_stats.csv
+2018-05-15 13:27:17,949 | INFO     | 0123 | adding edge source: descriptive_stats.R target: Descriptive_stats.csv
+2018-05-15 13:29:18,947 | INFO     | 0331 | user deleting edge source: cleandata.csv target: NPS_functions.R
+2018-05-15 13:30:34,964 | INFO     | 0308 | user deleting node LTR_Data.R
+2018-05-15 13:30:44,725 | INFO     | 0123 | adding edge source: cleandata.csv target: NPS_functions.R
+2018-05-15 13:34:03,929 | INFO     | 0283 | updating node
+2018-05-15 13:34:04,717 | INFO     | 0188 | renaming node NPS_overall_data.csv new name: PartE.csv
+2018-05-15 13:34:15,124 | INFO     | 0283 | updating node
+2018-05-15 13:34:16,070 | INFO     | 0188 | renaming node NPS_Data.csv new name: PartD.csv
+2018-05-15 13:35:42,777 | INFO     | 0283 | updating node
+2018-05-15 13:35:43,712 | INFO     | 0170 | updating node NPS_functions.R task status: not started assigned to: not assigned
+2018-05-15 13:35:43,724 | INFO     | 0188 | renaming node NPS_functions.R new name: NPS_Part_D.R
+2018-05-15 13:36:07,317 | INFO     | 0103 | adding node NPS_Part_E.R
+2018-05-15 13:36:13,665 | INFO     | 0123 | adding edge source: cleandata.csv target: NPS_Part_E.R
+2018-05-15 13:36:22,152 | INFO     | 0331 | user deleting edge source: NPS_Part_D.R target: PartE.csv
+2018-05-15 13:36:27,483 | INFO     | 0123 | adding edge source: NPS_Part_E.R target: PartE.csv
+2018-05-15 13:36:36,517 | INFO     | 0283 | updating node
+2018-05-15 13:36:40,228 | INFO     | 0188 | renaming node PartE.csv new name: Part_E.csv
+2018-05-15 13:36:40,250 | INFO     | 0283 | updating node
+2018-05-15 13:36:40,259 | INFO     | 0188 | renaming node PartD.csv new name: Part_D.csv
+2018-05-15 13:40:34,241 | INFO     | 0283 | updating node
+2018-05-15 13:40:35,231 | INFO     | 0170 | updating node NPS_Part_D.R task status: not started assigned to: not assigned
+2018-05-15 13:40:35,242 | INFO     | 0188 | renaming node NPS_Part_D.R new name: NPS_Function.R
+2018-05-15 13:42:37,980 | INFO     | 0103 | adding node Fetch_LTR.R
+2018-05-15 13:42:42,975 | INFO     | 0331 | user deleting edge source: cleandata.csv target: NPS_Function.R
+2018-05-15 13:42:48,705 | INFO     | 0331 | user deleting edge source: cleandata.csv target: NPS_Function.R
+2018-05-15 13:42:53,617 | INFO     | 0123 | adding edge source: cleandata.csv target: Fetch_LTR.R
+2018-05-15 13:43:27,348 | INFO     | 0283 | updating node
+2018-05-15 13:43:27,980 | INFO     | 0188 | renaming node Part_D.csv new name: LTR_Data.csv
+2018-05-15 13:43:33,099 | INFO     | 0123 | adding edge source: Fetch_LTR.R target: LTR_Data.csv
+2018-05-15 13:43:43,436 | INFO     | 0331 | user deleting edge source: NPS_Function.R target: LTR_Data.csv
+2018-05-15 13:44:05,965 | INFO     | 0354 | user reversing flow source: LTR_Data.csv target: Fetch_LTR.R
+2018-05-15 13:44:31,779 | INFO     | 0123 | adding edge source: LTR_Data.csv target: NPS_Function.R
+2018-05-15 13:44:39,537 | INFO     | 0264 | user started git push

@@ -14,7 +14,8 @@ df <- read.csv('cleandata.csv')
 
 ####################################
 ##### write output file ############
-# add your R code to write output file
+write.csv(df, file = 'Descriptive_stats.csv')
 ####################################
+
 
 
