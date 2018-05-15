@@ -18,10 +18,10 @@
             "assigned_to": "not assigned"
         },
         {
-            "name": "PartD.csv"
+            "name": "Part_D.csv"
         },
         {
-            "name": "PartE.csv"
+            "name": "Part_E.csv"
         },
         {
             "name": "Descriptive_stats.csv"
@@ -45,7 +45,7 @@
         },
         {
             "source": "NPS_Part_D.R",
-            "target": "PartD.csv"
+            "target": "Part_D.csv"
         },
         {
             "source": "descriptive_stats.R",
@@ -61,7 +61,7 @@
         },
         {
             "source": "NPS_Part_E.R",
-            "target": "PartE.csv"
+            "target": "Part_E.csv"
         }
     ]
 }
