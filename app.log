@@ -124,3 +124,5 @@
 2018-05-15 13:35:42,777 | INFO     | 0283 | updating node
 2018-05-15 13:35:43,712 | INFO     | 0170 | updating node NPS_functions.R task status: not started assigned to: not assigned
 2018-05-15 13:35:43,724 | INFO     | 0188 | renaming node NPS_functions.R new name: NPS_Part_D.R
+2018-05-15 13:36:07,317 | INFO     | 0103 | adding node NPS_Part_E.R
+2018-05-15 13:36:13,665 | INFO     | 0123 | adding edge source: cleandata.csv target: NPS_Part_E.R
