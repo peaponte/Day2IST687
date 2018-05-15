@@ -24,11 +24,6 @@
             "name": "NPS_overall_data.csv"
         },
         {
-            "name": "LTR_Data.R",
-            "task_status": "not started",
-            "assigned_to": "not assigned"
-        },
-        {
             "name": "Descriptive_stats.csv"
         }
     ],
@@ -48,10 +43,6 @@
         {
             "source": "NPS_functions.R",
             "target": "NPS_Data.csv"
-        },
-        {
-            "source": "cleandata.csv",
-            "target": "LTR_Data.R"
         },
         {
             "source": "NPS_functions.R",
