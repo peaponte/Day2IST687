@@ -21,7 +21,7 @@
             "name": "NPS_Data.csv"
         },
         {
-            "name": "NPS_overall_data.csv"
+            "name": "PartE.csv"
         },
         {
             "name": "Descriptive_stats.csv"
@@ -46,7 +46,7 @@
         },
         {
             "source": "NPS_functions.R",
-            "target": "NPS_overall_data.csv"
+            "target": "PartE.csv"
         },
         {
             "source": "descriptive_stats.R",
