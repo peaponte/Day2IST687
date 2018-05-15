@@ -97,6 +97,10 @@
         {
             "source": "Fetch_LTR_E_2.R",
             "target": "LTR_Data_E_2.csv"
+        },
+        {
+            "source": "LTR_Data_E_1.csv",
+            "target": "NPS_Function.R"
         }
     ]
 }
