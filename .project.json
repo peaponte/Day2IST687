@@ -19,6 +19,17 @@
         },
         {
             "name": "NPS_Data.csv"
+        },
+        {
+            "name": "data_7865.csv"
+        },
+        {
+            "name": "LTR_Data.R",
+            "task_status": "not started",
+            "assigned_to": "not assigned"
+        },
+        {
+            "name": "script_6164.R"
         }
     ],
     "edges": [
@@ -41,6 +52,14 @@
         {
             "source": "NPS_functions.R",
             "target": "NPS_Data.csv"
+        },
+        {
+            "source": "cleandata.csv",
+            "target": "LTR_Data.R"
+        },
+        {
+            "source": "NPS_functions.R",
+            "target": "data_7865.csv"
         }
     ]
 }

@@ -14,9 +14,7 @@ df <- read.csv('cleandata.csv')
 
 ####################################
 ##### write output file ############
-write.csv(df, file = 'data_7865.csv')
+# add your R code to write output file
 ####################################
-
-
 
 
