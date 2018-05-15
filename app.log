@@ -119,3 +119,5 @@
 2018-05-15 13:30:44,725 | INFO     | 0123 | adding edge source: cleandata.csv target: NPS_functions.R
 2018-05-15 13:34:03,929 | INFO     | 0283 | updating node
 2018-05-15 13:34:04,717 | INFO     | 0188 | renaming node NPS_overall_data.csv new name: PartE.csv
+2018-05-15 13:34:15,124 | INFO     | 0283 | updating node
+2018-05-15 13:34:16,070 | INFO     | 0188 | renaming node NPS_Data.csv new name: PartD.csv
