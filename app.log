@@ -114,3 +114,4 @@
 2018-05-15 13:26:03,848 | INFO     | 0188 | renaming node data_7865.csv new name: NPS_overall_data.csv
 2018-05-15 13:27:08,672 | INFO     | 0103 | adding node Descriptive_stats.csv
 2018-05-15 13:27:17,949 | INFO     | 0123 | adding edge source: descriptive_stats.R target: Descriptive_stats.csv
+2018-05-15 13:29:18,947 | INFO     | 0331 | user deleting edge source: cleandata.csv target: NPS_functions.R
