@@ -143,3 +143,4 @@
 2018-05-15 13:43:27,980 | INFO     | 0188 | renaming node Part_D.csv new name: LTR_Data.csv
 2018-05-15 13:43:33,099 | INFO     | 0123 | adding edge source: Fetch_LTR.R target: LTR_Data.csv
 2018-05-15 13:43:43,436 | INFO     | 0331 | user deleting edge source: NPS_Function.R target: LTR_Data.csv
+2018-05-15 13:44:05,965 | INFO     | 0354 | user reversing flow source: LTR_Data.csv target: Fetch_LTR.R
