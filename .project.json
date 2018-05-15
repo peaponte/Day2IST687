@@ -21,7 +21,7 @@
             "name": "NPS_Data.csv"
         },
         {
-            "name": "data_7865.csv"
+            "name": "NPS_overall_data.csv"
         },
         {
             "name": "LTR_Data.R",
@@ -56,7 +56,7 @@
         },
         {
             "source": "NPS_functions.R",
-            "target": "data_7865.csv"
+            "target": "NPS_overall_data.csv"
         }
     ]
 }
