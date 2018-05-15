@@ -93,3 +93,6 @@
 2018-05-15 13:17:22,981 | DEBUG    | 0088 | edge not valid
 2018-05-15 13:18:01,057 | INFO     | 0103 | adding node NPS_Data.csv
 2018-05-15 13:18:04,364 | INFO     | 0123 | adding edge source: NPS_function.R target: NPS_Data.csv
+2018-05-15 13:18:31,302 | INFO     | 0283 | updating node
+2018-05-15 13:18:31,765 | INFO     | 0170 | updating node NPS_function.R task status: not started assigned to: not assigned
+2018-05-15 13:18:31,780 | INFO     | 0188 | renaming node NPS_function.R new name: NPS_functions.R
