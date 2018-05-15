@@ -14,7 +14,8 @@ df <- read.csv('LTR_Data.csv')
 
 ####################################
 ##### write output file ############
-# add your R code to write output file
+write.csv(df, file = 'NPS_Data_Part_D.csv')
 ####################################
+
 
 
