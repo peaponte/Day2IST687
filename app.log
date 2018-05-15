@@ -221,3 +221,4 @@
 2018-05-15 16:00:59,944 | INFO     | 0123 | adding edge source: LTR_Data.csv target: NPS_Function_1.R
 2018-05-15 16:00:59,953 | DEBUG    | 0088 | edge not valid
 2018-05-15 16:00:59,954 | DEBUG    | 0088 | edge not valid
+2018-05-15 16:01:35,757 | INFO     | 0331 | user deleting edge source: LTR_Data_E_2.csv target: NPS_Function.R
