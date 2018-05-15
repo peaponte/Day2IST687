@@ -5,7 +5,7 @@ setwd(Sys.getenv('PROJECT_HOME'))
 
 ####################################
 ## write code to read input csv into data frame
-df <- read.csv('LTR_Data.csv')
+df <- read.csv('LTR_Data_E_2.csv')
 ####################################
 
 ## start writing your R code from here
@@ -16,6 +16,7 @@ df <- read.csv('LTR_Data.csv')
 ##### write output file ############
 write.csv(df, file = 'LTR_Data_E_1.csv')
 ####################################
+
 
 
 
