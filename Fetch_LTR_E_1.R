@@ -14,8 +14,9 @@ df <- read.csv('cleandata.csv')
 
 ####################################
 ##### write output file ############
-write.csv(df, file = 'LTR_Data_E_2.csv')
+write.csv(df, file = 'LTR_Data_E_1.csv')
 ####################################
+
 
 
 
