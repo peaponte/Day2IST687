@@ -49,6 +49,15 @@
         },
         {
             "name": "Part_E_Answer.csv"
+        },
+        {
+            "name": "NPS_Data_Part_D.csv"
+        },
+        {
+            "name": "Create_Dataframe.R"
+        },
+        {
+            "name": "Part_F_Output.csv"
         }
     ],
     "edges": [
@@ -123,6 +132,18 @@
         {
             "source": "Part_E_Comparison.R",
             "target": "Part_E_Answer.csv"
+        },
+        {
+            "source": "NPS_Function.R",
+            "target": "NPS_Data_Part_D.csv"
+        },
+        {
+            "source": "cleandata.csv",
+            "target": "Create_Dataframe.R"
+        },
+        {
+            "source": "Create_Dataframe.R",
+            "target": "Part_F_Output.csv"
         }
     ]
 }
