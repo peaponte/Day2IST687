@@ -205,3 +205,4 @@
 2018-05-15 14:02:50,743 | INFO     | 0283 | updating node
 2018-05-15 14:02:51,066 | INFO     | 0170 | updating node Create_Dataframe.R task status: not started assigned to: not assigned
 2018-05-15 14:02:51,086 | INFO     | 0188 | renaming node Create_Dataframe.R new name: Create_Aggregate_Dataframe.R
+2018-05-15 14:03:11,546 | INFO     | 0103 | adding node Part_F_Aggregate_Output.csv
