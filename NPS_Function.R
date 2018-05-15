@@ -14,8 +14,9 @@ df <- read.csv('LTR_Data.csv')
 
 ####################################
 ##### write output file ############
-write.csv(df, file = 'Part_E.csv')
+write.csv(df, file = 'Part_E_2.csv')
 ####################################
+
 
 
 
