@@ -65,6 +65,10 @@
         {
             "source": "NPS_Function.R",
             "target": "Part_E.csv"
+        },
+        {
+            "source": "NPS_Function.R",
+            "target": "Part_E_2.csv"
         }
     ]
 }
