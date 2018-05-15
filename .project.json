@@ -60,6 +60,10 @@
         {
             "source": "NPS_functions.R",
             "target": "NPS_overall_data.csv"
+        },
+        {
+            "source": "descriptive_stats.R",
+            "target": "Descriptive_stats.csv"
         }
     ]
 }
