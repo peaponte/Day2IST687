@@ -126,3 +126,4 @@
 2018-05-15 13:35:43,724 | INFO     | 0188 | renaming node NPS_functions.R new name: NPS_Part_D.R
 2018-05-15 13:36:07,317 | INFO     | 0103 | adding node NPS_Part_E.R
 2018-05-15 13:36:13,665 | INFO     | 0123 | adding edge source: cleandata.csv target: NPS_Part_E.R
+2018-05-15 13:36:22,152 | INFO     | 0331 | user deleting edge source: NPS_Part_D.R target: PartE.csv
