@@ -9,11 +9,16 @@ df <- read.csv('raw_data.csv')
 ####################################
 
 ## start writing your R code from here
+is.na(df)
+dfClean <- df[!is.na(df$Likelihood_Recommend_H), ]
+dfClean
+#str(df)
+#str(dfClean)
 
 ## end your R code and logic 
 
 ####################################
 ##### write output file ############
-write.csv(df, file = 'data.csv')
+write.csv(df, file = 'cleandata.csv')
 ####################################
 
