@@ -210,3 +210,8 @@
 2018-05-15 14:03:40,050 | INFO     | 0123 | adding edge source: cleandata.csv target: Create_Nonaggregate_Dataframe.R
 2018-05-15 14:04:38,899 | INFO     | 0103 | adding node Part_F_Nonaggregate_Output.csv
 2018-05-15 14:04:44,765 | INFO     | 0123 | adding edge source: Create_Nonaggregate_Dataframe.R target: Part_F_Nonaggregate_Output.csv
+2018-05-15 15:55:40,320 | INFO     | 0187 | user opening Fetch_LTR.R
+2018-05-15 15:55:46,088 | INFO     | 0187 | user opening Fetch_LTR.R
+2018-05-15 15:55:47,975 | INFO     | 0187 | user opening Fetch_LTR.R
+2018-05-15 15:56:37,214 | INFO     | 0187 | user opening NPS_Function.R
+2018-05-15 16:00:23,635 | INFO     | 0103 | adding node NPS_Function_1.R
