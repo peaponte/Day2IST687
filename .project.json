@@ -13,7 +13,9 @@
             "name": "descriptive_stats.R"
         },
         {
-            "name": "NPS_function.R"
+            "name": "NPS_functions.R",
+            "task_status": "not started",
+            "assigned_to": "not assigned"
         },
         {
             "name": "NPS_Data.csv"
@@ -34,10 +36,10 @@
         },
         {
             "source": "cleandata.csv",
-            "target": "NPS_function.R"
+            "target": "NPS_functions.R"
         },
         {
-            "source": "NPS_function.R",
+            "source": "NPS_functions.R",
             "target": "NPS_Data.csv"
         }
     ]
