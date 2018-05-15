@@ -108,6 +108,10 @@
         {
             "source": "LTR_Data_E_2.csv",
             "target": "NPS_Function.R"
+        },
+        {
+            "source": "Part_E_1.csv",
+            "target": "Part_E_Comparison.R"
         }
     ]
 }
