@@ -173,3 +173,5 @@
 2018-05-15 13:51:50,417 | INFO     | 0103 | adding node Part_E_Comparison.R
 2018-05-15 13:52:06,985 | INFO     | 0123 | adding edge source: Part_E_1.csv target: Part_E_Comparison.R
 2018-05-15 13:52:12,886 | INFO     | 0123 | adding edge source: Part_E_2.csv target: Part_E_Comparison.R
+2018-05-15 13:52:21,099 | INFO     | 0123 | adding edge source: Part_E_2.csv target: Part_E_Comparison.R
+2018-05-15 13:52:21,106 | DEBUG    | 0088 | edge not valid
