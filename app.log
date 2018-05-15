@@ -189,3 +189,5 @@
 2018-05-15 13:56:54,835 | INFO     | 0123 | adding edge source: NPS_Function.R target: NPS_Data_Part_D.csv
 2018-05-15 13:58:56,453 | INFO     | 0103 | adding node Create_Dataframe.R
 2018-05-15 13:59:01,855 | INFO     | 0123 | adding edge source: cleandata.csv target: Create_Dataframe.R
+2018-05-15 13:59:10,592 | INFO     | 0123 | adding edge source: cleandata.csv target: Create_Dataframe.R
+2018-05-15 13:59:10,602 | DEBUG    | 0088 | edge not valid
