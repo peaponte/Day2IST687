@@ -106,3 +106,4 @@
 2018-05-15 13:23:27,770 | INFO     | 0170 | updating node script_5831.R task status: not started assigned to: not assigned
 2018-05-15 13:23:27,785 | INFO     | 0188 | renaming node script_5831.R new name: LTR_Data.R
 2018-05-15 13:24:07,543 | INFO     | 0103 | adding node script_6164.R
+2018-05-15 13:24:58,193 | INFO     | 0123 | adding edge source: NPS_functions.R target: data_7865.csv
