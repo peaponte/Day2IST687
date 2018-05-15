@@ -46,10 +46,6 @@
             "target": "descriptive_stats.R"
         },
         {
-            "source": "cleandata.csv",
-            "target": "NPS_functions.R"
-        },
-        {
             "source": "NPS_functions.R",
             "target": "NPS_Data.csv"
         },
