@@ -21,7 +21,7 @@
             "name": "LTR_Data.csv"
         },
         {
-            "name": "Part_E.csv"
+            "name": "Part_E_1.csv"
         },
         {
             "name": "Descriptive_stats.csv"
@@ -64,7 +64,7 @@
         },
         {
             "source": "NPS_Function.R",
-            "target": "Part_E.csv"
+            "target": "Part_E_1.csv"
         },
         {
             "source": "NPS_Function.R",
