@@ -100,3 +100,5 @@
 2018-05-15 13:19:49,346 | INFO     | 0356 | merge successful
 2018-05-15 13:22:34,087 | INFO     | 0103 | adding node data_7865.csv
 2018-05-15 13:22:34,105 | INFO     | 0103 | adding node data_7865.csv
+2018-05-15 13:22:57,298 | INFO     | 0103 | adding node script_5831.R
+2018-05-15 13:23:02,979 | INFO     | 0123 | adding edge source: cleandata.csv target: script_5831.R
