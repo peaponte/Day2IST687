@@ -9,7 +9,7 @@ df <- read.csv('cleandata.csv')
 ####################################
 
 ## start writing your R code from here
-
+dfClean$LENGTH_OF_STAY_C
 ## end your R code and logic 
 
 ####################################
