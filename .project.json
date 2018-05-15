@@ -28,6 +28,10 @@
         {
             "source": "cleandata.csv",
             "target": "descriptive_stats.R"
+        },
+        {
+            "source": "cleandata.csv",
+            "target": "NPS_function.R"
         }
     ]
 }
