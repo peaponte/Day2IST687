@@ -137,3 +137,5 @@
 2018-05-15 13:40:35,242 | INFO     | 0188 | renaming node NPS_Part_D.R new name: NPS_Function.R
 2018-05-15 13:42:37,980 | INFO     | 0103 | adding node Fetch_LTR.R
 2018-05-15 13:42:42,975 | INFO     | 0331 | user deleting edge source: cleandata.csv target: NPS_Function.R
+2018-05-15 13:42:48,705 | INFO     | 0331 | user deleting edge source: cleandata.csv target: NPS_Function.R
+2018-05-15 13:42:53,617 | INFO     | 0123 | adding edge source: cleandata.csv target: Fetch_LTR.R
