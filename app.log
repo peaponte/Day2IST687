@@ -89,3 +89,5 @@
 2018-05-15 13:16:27,733 | INFO     | 0123 | adding edge source: cleandata.csv target: descriptive_stats.R
 2018-05-15 13:17:14,058 | INFO     | 0103 | adding node NPS_function.R
 2018-05-15 13:17:19,528 | INFO     | 0123 | adding edge source: cleandata.csv target: NPS_function.R
+2018-05-15 13:17:22,972 | INFO     | 0123 | adding edge source: cleandata.csv target: NPS_function.R
+2018-05-15 13:17:22,981 | DEBUG    | 0088 | edge not valid
