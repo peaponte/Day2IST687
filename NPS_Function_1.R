@@ -28,8 +28,7 @@ NPSfunction <- function(dfClean)
   V <- format(round(NPS*100))
   return(V)
 }
-NPS <- NPSfunction(dfClean)
-NPS
+NPSfunction(dfClean)
 ## end your R code and logic 
 
 ####################################
