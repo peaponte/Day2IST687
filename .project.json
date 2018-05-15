@@ -58,6 +58,10 @@
         {
             "source": "cleandata.csv",
             "target": "NPS_Part_E.R"
+        },
+        {
+            "source": "NPS_Part_E.R",
+            "target": "PartE.csv"
         }
     ]
 }
