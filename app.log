@@ -237,3 +237,5 @@
 2018-05-15 16:10:03,465 | INFO     | 0123 | adding edge source: NPS_Function_1.R target: NPS_Data_Part_D.csv
 2018-05-15 16:10:16,299 | INFO     | 0264 | user started git push
 2018-05-15 16:10:35,630 | INFO     | 0356 | merge successful
+2018-05-15 16:19:45,154 | INFO     | 0207 | user started full network run
+2018-05-15 16:19:45,316 | INFO     | 0112 | running node clean.R
