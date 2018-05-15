@@ -168,3 +168,5 @@
 2018-05-15 13:50:31,120 | INFO     | 0123 | adding edge source: Fetch_LTR_E_2.R target: LTR_Data_E_2.csv
 2018-05-15 13:51:14,372 | INFO     | 0123 | adding edge source: NPS_Function.R target: LTR_Data_E_1.csv
 2018-05-15 13:51:19,035 | INFO     | 0123 | adding edge source: LTR_Data_E_2.csv target: NPS_Function.R
+2018-05-15 13:51:24,564 | INFO     | 0123 | adding edge source: LTR_Data_E_2.csv target: NPS_Function.R
+2018-05-15 13:51:24,582 | DEBUG    | 0088 | edge not valid
