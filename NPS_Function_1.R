@@ -25,7 +25,7 @@ NPSfunction <- function(dfClean)
   
   #NPS calculation then round number and convert to percent
   NPS <- PercentPromoters - PercentDetractors
-  format(round(NPS*100,2))
+  V <- format(round(NPS*100))
 }
 ## end your R code and logic 
 
