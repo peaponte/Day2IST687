@@ -208,3 +208,5 @@
 2018-05-15 14:03:11,546 | INFO     | 0103 | adding node Part_F_Aggregate_Output.csv
 2018-05-15 14:03:34,401 | INFO     | 0103 | adding node Create_Nonaggregate_Dataframe.R
 2018-05-15 14:03:40,050 | INFO     | 0123 | adding edge source: cleandata.csv target: Create_Nonaggregate_Dataframe.R
+2018-05-15 14:04:38,899 | INFO     | 0103 | adding node Part_F_Nonaggregate_Output.csv
+2018-05-15 14:04:44,765 | INFO     | 0123 | adding edge source: Create_Nonaggregate_Dataframe.R target: Part_F_Nonaggregate_Output.csv
