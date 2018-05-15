@@ -63,8 +63,8 @@
             "target": "Fetch_LTR.R"
         },
         {
-            "source": "LTR_Data.csv",
-            "target": "Fetch_LTR.R"
+            "source": "Fetch_LTR.R",
+            "target": "LTR_Data.csv"
         }
     ]
 }
