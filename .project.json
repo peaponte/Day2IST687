@@ -93,6 +93,10 @@
         {
             "source": "cleandata.csv",
             "target": "Fetch_LTR_E_2.R"
+        },
+        {
+            "source": "Fetch_LTR_E_2.R",
+            "target": "LTR_Data_E_2.csv"
         }
     ]
 }
