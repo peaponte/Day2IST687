@@ -2,6 +2,7 @@
 ##### Do NOT delete this block #####
 #setwd(Sys.getenv('PROJECT_HOME'))
 setwd('C:/Users/Alex/stigmergy/Day2IST687')
+getwd()
 ####################################
 
 ####################################
