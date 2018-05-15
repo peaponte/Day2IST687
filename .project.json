@@ -51,6 +51,10 @@
         {
             "source": "descriptive_stats.R",
             "target": "Descriptive_stats.csv"
+        },
+        {
+            "source": "cleandata.csv",
+            "target": "NPS_functions.R"
         }
     ]
 }
