@@ -24,7 +24,9 @@
             "name": "data_7865.csv"
         },
         {
-            "name": "script_5831.R"
+            "name": "LTR_Data.R",
+            "task_status": "not started",
+            "assigned_to": "not assigned"
         }
     ],
     "edges": [
@@ -50,7 +52,7 @@
         },
         {
             "source": "cleandata.csv",
-            "target": "script_5831.R"
+            "target": "LTR_Data.R"
         }
     ]
 }
