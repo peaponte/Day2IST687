@@ -21,6 +21,10 @@
         {
             "source": "clean.R",
             "target": "cleandata.csv"
+        },
+        {
+            "source": "cleandata.csv",
+            "target": "descriptive_stats.R"
         }
     ]
 }
