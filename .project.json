@@ -48,10 +48,6 @@
             "target": "PartD.csv"
         },
         {
-            "source": "NPS_Part_D.R",
-            "target": "PartE.csv"
-        },
-        {
             "source": "descriptive_stats.R",
             "target": "Descriptive_stats.csv"
         },
