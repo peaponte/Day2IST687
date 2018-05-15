@@ -12,9 +12,9 @@ df <- read.csv('raw_data.csv')
 is.na(df)
 dfClean <- df[!is.na(df$Likelihood_Recommend_H), ]
 dfClean
-#str(df)
-#str(dfClean)
-
+dfVal <- is.na(df$Likelihood_Recommend_H)
+dfVal
+sum(dfVal)
 ## end your R code and logic 
 
 ####################################
