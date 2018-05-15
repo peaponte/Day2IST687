@@ -4,10 +4,21 @@
             "name": "raw_data.csv"
         },
         {
-            "name": "data.csv"
+            "name": "cleandata.csv"
         },
         {
             "name": "clean.R"
+        },
+        {
+            "name": "descriptive_stats.R"
+        },
+        {
+            "name": "NPS_functions.R",
+            "task_status": "not started",
+            "assigned_to": "not assigned"
+        },
+        {
+            "name": "NPS_Data.csv"
         }
     ],
     "edges": [
@@ -17,7 +28,19 @@
         },
         {
             "source": "clean.R",
-            "target": "data.csv"
+            "target": "cleandata.csv"
+        },
+        {
+            "source": "cleandata.csv",
+            "target": "descriptive_stats.R"
+        },
+        {
+            "source": "cleandata.csv",
+            "target": "NPS_functions.R"
+        },
+        {
+            "source": "NPS_functions.R",
+            "target": "NPS_Data.csv"
         }
     ]
 }
