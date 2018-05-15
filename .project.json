@@ -47,10 +47,6 @@
             "target": "descriptive_stats.R"
         },
         {
-            "source": "NPS_Function.R",
-            "target": "LTR_Data.csv"
-        },
-        {
             "source": "descriptive_stats.R",
             "target": "Descriptive_stats.csv"
         },
