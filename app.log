@@ -199,3 +199,4 @@
 2018-05-15 14:00:41,888 | INFO     | 0349 | 204
 2018-05-15 14:00:41,889 | INFO     | 0360 | base already contains the head, nothing to merge
 2018-05-15 14:00:44,622 | INFO     | 0207 | user started full network run
+2018-05-15 14:00:53,485 | INFO     | 0112 | running node clean.R
