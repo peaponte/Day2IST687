@@ -5,20 +5,19 @@ setwd(Sys.getenv('PROJECT_HOME'))
 
 ####################################
 ## write code to read input csv into data frame
-df <- read.csv('raw_data.csv')
+df <- read.csv('Part_E_2.csv')
 ####################################
 
 ## start writing your R code from here
-is.na(df)
-dfClean <- df[!is.na(df$Likelihood_Recommend_H), ]
-dfClean
-#str(df)
-#str(dfClean)
 
 ## end your R code and logic 
 
 ####################################
 ##### write output file ############
-write.csv(df, file = 'cleandata.csv')
+write.csv(df, file = 'Part_E_2.csv')
 ####################################
+
+
+
+
 

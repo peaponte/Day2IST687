@@ -54,10 +54,24 @@
             "name": "NPS_Data_Part_D.csv"
         },
         {
-            "name": "Create_Dataframe.R"
+            "name": "Create_Aggregate_Dataframe.R",
+            "task_status": "not started",
+            "assigned_to": "not assigned"
         },
         {
-            "name": "Part_F_Output.csv"
+            "name": "Part_F_Aggregate_Output.csv"
+        },
+        {
+            "name": "Create_Nonaggregate_Dataframe.R"
+        },
+        {
+            "name": "Part_F_Nonaggregate_Output.csv"
+        },
+        {
+            "name": "NPS_Function_1.R"
+        },
+        {
+            "name": "NPS_Function_2.R"
         }
     ],
     "edges": [
@@ -86,16 +100,8 @@
             "target": "LTR_Data.csv"
         },
         {
-            "source": "LTR_Data.csv",
-            "target": "NPS_Function.R"
-        },
-        {
             "source": "NPS_Function.R",
             "target": "Part_E_1.csv"
-        },
-        {
-            "source": "NPS_Function.R",
-            "target": "Part_E_2.csv"
         },
         {
             "source": "cleandata.csv",
@@ -118,10 +124,6 @@
             "target": "NPS_Function.R"
         },
         {
-            "source": "LTR_Data_E_2.csv",
-            "target": "NPS_Function.R"
-        },
-        {
             "source": "Part_E_1.csv",
             "target": "Part_E_Comparison.R"
         },
@@ -134,16 +136,32 @@
             "target": "Part_E_Answer.csv"
         },
         {
-            "source": "NPS_Function.R",
-            "target": "NPS_Data_Part_D.csv"
+            "source": "cleandata.csv",
+            "target": "Create_Aggregate_Dataframe.R"
+        },
+        {
+            "source": "Create_Aggregate_Dataframe.R",
+            "target": "Part_F_Aggregate_Output.csv"
         },
         {
             "source": "cleandata.csv",
-            "target": "Create_Dataframe.R"
+            "target": "Create_Nonaggregate_Dataframe.R"
         },
         {
-            "source": "Create_Dataframe.R",
-            "target": "Part_F_Output.csv"
+            "source": "Create_Nonaggregate_Dataframe.R",
+            "target": "Part_F_Nonaggregate_Output.csv"
+        },
+        {
+            "source": "LTR_Data.csv",
+            "target": "NPS_Function_1.R"
+        },
+        {
+            "source": "LTR_Data_E_2.csv",
+            "target": "NPS_Function_2.R"
+        },
+        {
+            "source": "NPS_Function_2.R",
+            "target": "Part_E_2.csv"
         }
     ]
 }

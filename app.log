@@ -195,3 +195,41 @@
 2018-05-15 14:00:08,657 | INFO     | 0123 | adding edge source: Create_Dataframe.R target: Part_F_Output.csv
 2018-05-15 14:00:23,222 | INFO     | 0264 | user started git push
 2018-05-15 14:00:28,924 | INFO     | 0264 | user started git push
+2018-05-15 14:00:41,701 | INFO     | 0356 | merge successful
+2018-05-15 14:00:41,888 | INFO     | 0349 | 204
+2018-05-15 14:00:41,889 | INFO     | 0360 | base already contains the head, nothing to merge
+2018-05-15 14:00:44,622 | INFO     | 0207 | user started full network run
+2018-05-15 14:00:53,485 | INFO     | 0112 | running node clean.R
+2018-05-15 14:02:17,022 | INFO     | 0283 | updating node
+2018-05-15 14:02:17,202 | INFO     | 0188 | renaming node Part_F_Output.csv new name: Part_F_Aggregate_Output.csv
+2018-05-15 14:02:50,743 | INFO     | 0283 | updating node
+2018-05-15 14:02:51,066 | INFO     | 0170 | updating node Create_Dataframe.R task status: not started assigned to: not assigned
+2018-05-15 14:02:51,086 | INFO     | 0188 | renaming node Create_Dataframe.R new name: Create_Aggregate_Dataframe.R
+2018-05-15 14:03:11,546 | INFO     | 0103 | adding node Part_F_Aggregate_Output.csv
+2018-05-15 14:03:34,401 | INFO     | 0103 | adding node Create_Nonaggregate_Dataframe.R
+2018-05-15 14:03:40,050 | INFO     | 0123 | adding edge source: cleandata.csv target: Create_Nonaggregate_Dataframe.R
+2018-05-15 14:04:38,899 | INFO     | 0103 | adding node Part_F_Nonaggregate_Output.csv
+2018-05-15 14:04:44,765 | INFO     | 0123 | adding edge source: Create_Nonaggregate_Dataframe.R target: Part_F_Nonaggregate_Output.csv
+2018-05-15 15:55:40,320 | INFO     | 0187 | user opening Fetch_LTR.R
+2018-05-15 15:55:46,088 | INFO     | 0187 | user opening Fetch_LTR.R
+2018-05-15 15:55:47,975 | INFO     | 0187 | user opening Fetch_LTR.R
+2018-05-15 15:56:37,214 | INFO     | 0187 | user opening NPS_Function.R
+2018-05-15 16:00:23,635 | INFO     | 0103 | adding node NPS_Function_1.R
+2018-05-15 16:00:43,296 | INFO     | 0331 | user deleting edge source: LTR_Data.csv target: NPS_Function.R
+2018-05-15 16:00:49,710 | INFO     | 0123 | adding edge source: LTR_Data.csv target: NPS_Function_1.R
+2018-05-15 16:00:59,934 | INFO     | 0123 | adding edge source: LTR_Data.csv target: NPS_Function_1.R
+2018-05-15 16:00:59,944 | INFO     | 0123 | adding edge source: LTR_Data.csv target: NPS_Function_1.R
+2018-05-15 16:00:59,953 | DEBUG    | 0088 | edge not valid
+2018-05-15 16:00:59,954 | DEBUG    | 0088 | edge not valid
+2018-05-15 16:01:35,757 | INFO     | 0331 | user deleting edge source: LTR_Data_E_2.csv target: NPS_Function.R
+2018-05-15 16:02:38,433 | INFO     | 0103 | adding node NPS_Function_2.csv
+2018-05-15 16:03:07,801 | INFO     | 0308 | user deleting node NPS_Function_2.csv
+2018-05-15 16:03:26,099 | INFO     | 0103 | adding node NPS_Function_2.R
+2018-05-15 16:03:35,154 | INFO     | 0123 | adding edge source: LTR_Data_E_2.csv target: NPS_Function_2.R
+2018-05-15 16:03:43,186 | INFO     | 0123 | adding edge source: LTR_Data_E_2.csv target: NPS_Function_2.R
+2018-05-15 16:06:24,294 | INFO     | 0331 | user deleting edge source: NPS_Function.R target: Part_E_2.csv
+2018-05-15 16:06:56,927 | INFO     | 0123 | adding edge source: Part_E_2.csv target: NPS_Function_2.R
+2018-05-15 16:07:09,215 | INFO     | 0331 | user deleting edge source: NPS_Function.R target: NPS_Data_Part_D.csv
+2018-05-15 16:07:12,578 | INFO     | 0331 | user deleting edge source: NPS_Function.R target: NPS_Data_Part_D.csv
+2018-05-15 16:08:13,002 | INFO     | 0354 | user reversing flow source: Part_E_2.csv target: NPS_Function_2.R
+2018-05-15 16:08:28,916 | INFO     | 0264 | user started git push
