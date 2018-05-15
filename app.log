@@ -102,3 +102,6 @@
 2018-05-15 13:22:34,105 | INFO     | 0103 | adding node data_7865.csv
 2018-05-15 13:22:57,298 | INFO     | 0103 | adding node script_5831.R
 2018-05-15 13:23:02,979 | INFO     | 0123 | adding edge source: cleandata.csv target: script_5831.R
+2018-05-15 13:23:27,157 | INFO     | 0283 | updating node
+2018-05-15 13:23:27,770 | INFO     | 0170 | updating node script_5831.R task status: not started assigned to: not assigned
+2018-05-15 13:23:27,785 | INFO     | 0188 | renaming node script_5831.R new name: LTR_Data.R
