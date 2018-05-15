@@ -55,10 +55,6 @@
             "target": "NPS_Part_E.R"
         },
         {
-            "source": "NPS_Part_E.R",
-            "target": "Part_E.csv"
-        },
-        {
             "source": "cleandata.csv",
             "target": "Fetch_LTR.R"
         },
