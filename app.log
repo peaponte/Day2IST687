@@ -227,3 +227,4 @@
 2018-05-15 16:03:26,099 | INFO     | 0103 | adding node NPS_Function_2.R
 2018-05-15 16:03:35,154 | INFO     | 0123 | adding edge source: LTR_Data_E_2.csv target: NPS_Function_2.R
 2018-05-15 16:03:43,186 | INFO     | 0123 | adding edge source: LTR_Data_E_2.csv target: NPS_Function_2.R
+2018-05-15 16:06:24,294 | INFO     | 0331 | user deleting edge source: NPS_Function.R target: Part_E_2.csv
