@@ -195,3 +195,7 @@
 2018-05-15 14:00:08,657 | INFO     | 0123 | adding edge source: Create_Dataframe.R target: Part_F_Output.csv
 2018-05-15 14:00:23,222 | INFO     | 0264 | user started git push
 2018-05-15 14:00:28,924 | INFO     | 0264 | user started git push
+2018-05-15 14:00:41,701 | INFO     | 0356 | merge successful
+2018-05-15 14:00:41,888 | INFO     | 0349 | 204
+2018-05-15 14:00:41,889 | INFO     | 0360 | base already contains the head, nothing to merge
+2018-05-15 14:00:44,622 | INFO     | 0207 | user started full network run
