@@ -146,3 +146,37 @@
 2018-05-15 13:44:05,965 | INFO     | 0354 | user reversing flow source: LTR_Data.csv target: Fetch_LTR.R
 2018-05-15 13:44:31,779 | INFO     | 0123 | adding edge source: LTR_Data.csv target: NPS_Function.R
 2018-05-15 13:44:39,537 | INFO     | 0264 | user started git push
+2018-05-15 13:44:49,410 | INFO     | 0356 | merge successful
+2018-05-15 13:44:59,114 | INFO     | 0331 | user deleting edge source: NPS_Part_E.R target: Part_E.csv
+2018-05-15 13:45:06,187 | INFO     | 0308 | user deleting node NPS_Part_E.R
+2018-05-15 13:45:20,069 | INFO     | 0123 | adding edge source: NPS_Function.R target: Part_E.csv
+2018-05-15 13:45:35,937 | INFO     | 0103 | adding node Part_E_2.csv
+2018-05-15 13:45:45,597 | INFO     | 0123 | adding edge source: NPS_Function.R target: Part_E_2.csv
+2018-05-15 13:45:56,752 | INFO     | 0283 | updating node
+2018-05-15 13:45:57,678 | INFO     | 0188 | renaming node Part_E.csv new name: Part_E_1.csv
+2018-05-15 13:48:00,184 | INFO     | 0103 | adding node LTR_Data_E_1.csv
+2018-05-15 13:48:13,591 | INFO     | 0103 | adding node LTR_Data_E_2.csv
+2018-05-15 13:48:13,606 | INFO     | 0103 | adding node LTR_Data_E_2.csv
+2018-05-15 13:48:47,050 | INFO     | 0103 | adding node Fetch_LTR_E_1.R
+2018-05-15 13:49:01,178 | INFO     | 0103 | adding node Fetch_LTR_E_2.R
+2018-05-15 13:49:39,017 | INFO     | 0123 | adding edge source: cleandata.csv target: Fetch_LTR_E_1.R
+2018-05-15 13:49:47,071 | INFO     | 0123 | adding edge source: Fetch_LTR_E_1.R target: LTR_Data_E_2.csv
+2018-05-15 13:49:56,031 | INFO     | 0331 | user deleting edge source: Fetch_LTR_E_1.R target: LTR_Data_E_2.csv
+2018-05-15 13:50:02,206 | INFO     | 0331 | user deleting edge source: Fetch_LTR_E_1.R target: LTR_Data_E_2.csv
+2018-05-15 13:50:07,618 | INFO     | 0123 | adding edge source: Fetch_LTR_E_1.R target: LTR_Data_E_1.csv
+2018-05-15 13:50:18,067 | INFO     | 0123 | adding edge source: cleandata.csv target: Fetch_LTR_E_2.R
+2018-05-15 13:50:31,120 | INFO     | 0123 | adding edge source: Fetch_LTR_E_2.R target: LTR_Data_E_2.csv
+2018-05-15 13:51:14,372 | INFO     | 0123 | adding edge source: NPS_Function.R target: LTR_Data_E_1.csv
+2018-05-15 13:51:19,035 | INFO     | 0123 | adding edge source: LTR_Data_E_2.csv target: NPS_Function.R
+2018-05-15 13:51:24,564 | INFO     | 0123 | adding edge source: LTR_Data_E_2.csv target: NPS_Function.R
+2018-05-15 13:51:24,582 | DEBUG    | 0088 | edge not valid
+2018-05-15 13:51:50,417 | INFO     | 0103 | adding node Part_E_Comparison.R
+2018-05-15 13:52:06,985 | INFO     | 0123 | adding edge source: Part_E_1.csv target: Part_E_Comparison.R
+2018-05-15 13:52:12,886 | INFO     | 0123 | adding edge source: Part_E_2.csv target: Part_E_Comparison.R
+2018-05-15 13:52:21,099 | INFO     | 0123 | adding edge source: Part_E_2.csv target: Part_E_Comparison.R
+2018-05-15 13:52:21,106 | DEBUG    | 0088 | edge not valid
+2018-05-15 13:52:37,317 | INFO     | 0103 | adding node Part_E_Answer.csv
+2018-05-15 13:52:42,706 | INFO     | 0123 | adding edge source: Part_E_Comparison.R target: Part_E_Answer.csv
+2018-05-15 13:52:51,065 | INFO     | 0123 | adding edge source: Part_E_Comparison.R target: Part_E_Answer.csv
+2018-05-15 13:52:51,084 | DEBUG    | 0088 | edge not valid
+2018-05-15 13:52:59,153 | INFO     | 0264 | user started git push
