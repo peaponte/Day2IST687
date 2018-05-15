@@ -56,10 +56,6 @@
         },
         {
             "source": "cleandata.csv",
-            "target": "NPS_Function.R"
-        },
-        {
-            "source": "cleandata.csv",
             "target": "NPS_Part_E.R"
         },
         {
