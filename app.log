@@ -70,3 +70,8 @@
 2018-05-15 12:10:43,655 | INFO     | 0207 | user started full network run
 2018-05-15 12:10:44,213 | INFO     | 0112 | running node clean.R
 2018-05-15 12:10:44,458 | ERROR    | 0155 | failed clean.R
+2018-05-15 12:11:03,104 | INFO     | 0187 | user opening clean.R
+2018-05-15 12:11:31,688 | INFO     | 0187 | user opening clean.R
+2018-05-15 12:16:40,760 | INFO     | 0207 | user started full network run
+2018-05-15 12:16:41,395 | INFO     | 0112 | running node clean.R
+2018-05-15 12:16:41,634 | ERROR    | 0155 | failed clean.R
