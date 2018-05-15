@@ -27,9 +27,6 @@
             "name": "Descriptive_stats.csv"
         },
         {
-            "name": "NPS_Part_E.R"
-        },
-        {
             "name": "Fetch_LTR.R"
         }
     ],
@@ -49,10 +46,6 @@
         {
             "source": "descriptive_stats.R",
             "target": "Descriptive_stats.csv"
-        },
-        {
-            "source": "cleandata.csv",
-            "target": "NPS_Part_E.R"
         },
         {
             "source": "cleandata.csv",
