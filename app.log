@@ -165,3 +165,4 @@
 2018-05-15 13:50:02,206 | INFO     | 0331 | user deleting edge source: Fetch_LTR_E_1.R target: LTR_Data_E_2.csv
 2018-05-15 13:50:07,618 | INFO     | 0123 | adding edge source: Fetch_LTR_E_1.R target: LTR_Data_E_1.csv
 2018-05-15 13:50:18,067 | INFO     | 0123 | adding edge source: cleandata.csv target: Fetch_LTR_E_2.R
+2018-05-15 13:50:31,120 | INFO     | 0123 | adding edge source: Fetch_LTR_E_2.R target: LTR_Data_E_2.csv
