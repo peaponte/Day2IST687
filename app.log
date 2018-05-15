@@ -147,3 +147,5 @@
 2018-05-15 13:44:31,779 | INFO     | 0123 | adding edge source: LTR_Data.csv target: NPS_Function.R
 2018-05-15 13:44:39,537 | INFO     | 0264 | user started git push
 2018-05-15 13:44:49,410 | INFO     | 0356 | merge successful
+2018-05-15 13:44:59,114 | INFO     | 0331 | user deleting edge source: NPS_Part_E.R target: Part_E.csv
+2018-05-15 13:45:06,187 | INFO     | 0308 | user deleting node NPS_Part_E.R
