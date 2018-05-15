@@ -65,6 +65,10 @@
         {
             "source": "cleandata.csv",
             "target": "Fetch_LTR.R"
+        },
+        {
+            "source": "LTR_Data.csv",
+            "target": "Fetch_LTR.R"
         }
     ]
 }
