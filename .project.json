@@ -119,6 +119,10 @@
         {
             "source": "Part_E_2.csv",
             "target": "Part_E_Comparison.R"
+        },
+        {
+            "source": "Part_E_Comparison.R",
+            "target": "Part_E_Answer.csv"
         }
     ]
 }
