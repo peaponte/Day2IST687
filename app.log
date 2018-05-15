@@ -54,3 +54,9 @@
 2018-05-15 12:06:04,514 | INFO     | 0207 | user started full network run
 2018-05-15 12:06:05,245 | INFO     | 0112 | running node clean.R
 2018-05-15 12:06:16,181 | ERROR    | 0155 | failed clean.R
+2018-05-15 12:15:43,293 | INFO     | 0187 | user opening clean.R
+2018-05-15 12:16:25,263 | INFO     | 0187 | user opening raw_data.csv
+2018-05-15 12:16:29,699 | INFO     | 0187 | user opening raw_data.csv
+2018-05-15 12:21:18,446 | INFO     | 0207 | user started full network run
+2018-05-15 12:21:18,939 | INFO     | 0112 | running node clean.R
+2018-05-15 12:21:19,079 | ERROR    | 0155 | failed clean.R
