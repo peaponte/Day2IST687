@@ -13,7 +13,7 @@
             "name": "descriptive_stats.R"
         },
         {
-            "name": "NPS_functions.R",
+            "name": "NPS_Part_D.R",
             "task_status": "not started",
             "assigned_to": "not assigned"
         },
@@ -41,11 +41,11 @@
             "target": "descriptive_stats.R"
         },
         {
-            "source": "NPS_functions.R",
+            "source": "NPS_Part_D.R",
             "target": "PartD.csv"
         },
         {
-            "source": "NPS_functions.R",
+            "source": "NPS_Part_D.R",
             "target": "PartE.csv"
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "source": "cleandata.csv",
-            "target": "NPS_functions.R"
+            "target": "NPS_Part_D.R"
         }
     ]
 }
