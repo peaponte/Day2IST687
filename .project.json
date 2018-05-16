@@ -4,10 +4,71 @@
             "name": "raw_data.csv"
         },
         {
-            "name": "data.csv"
+            "name": "cleandata.csv"
         },
         {
             "name": "clean.R"
+        },
+        {
+            "name": "descriptive_stats.R"
+        },
+        {
+            "name": "NPS_Function.R",
+            "task_status": "not started",
+            "assigned_to": "not assigned"
+        },
+        {
+            "name": "LTR_Data.csv"
+        },
+        {
+            "name": "Part_E_1.csv"
+        },
+        {
+            "name": "Descriptive_stats.csv"
+        },
+        {
+            "name": "Fetch_LTR.R"
+        },
+        {
+            "name": "Part_E_2.csv"
+        },
+        {
+            "name": "LTR_Data_E_1.csv"
+        },
+        {
+            "name": "LTR_Data_E_2.csv"
+        },
+        {
+            "name": "Fetch_LTR_E_1.R"
+        },
+        {
+            "name": "Fetch_LTR_E_2.R"
+        },
+        {
+            "name": "NPS_Data_Part_D.csv"
+        },
+        {
+            "name": "Create_Aggregate_Dataframe.R",
+            "task_status": "not started",
+            "assigned_to": "not assigned"
+        },
+        {
+            "name": "Part_F_Aggregate_Output.csv"
+        },
+        {
+            "name": "Create_Nonaggregate_Dataframe.R"
+        },
+        {
+            "name": "Part_F_Nonaggregate_Output.csv"
+        },
+        {
+            "name": "NPS_Function_1.R"
+        },
+        {
+            "name": "NPS_Function_2.R"
+        },
+        {
+            "name": "Samples.R"
         }
     ],
     "edges": [
@@ -17,7 +78,83 @@
         },
         {
             "source": "clean.R",
-            "target": "data.csv"
+            "target": "cleandata.csv"
+        },
+        {
+            "source": "cleandata.csv",
+            "target": "descriptive_stats.R"
+        },
+        {
+            "source": "descriptive_stats.R",
+            "target": "Descriptive_stats.csv"
+        },
+        {
+            "source": "cleandata.csv",
+            "target": "Fetch_LTR.R"
+        },
+        {
+            "source": "Fetch_LTR.R",
+            "target": "LTR_Data.csv"
+        },
+        {
+            "source": "NPS_Function.R",
+            "target": "Part_E_1.csv"
+        },
+        {
+            "source": "cleandata.csv",
+            "target": "Fetch_LTR_E_1.R"
+        },
+        {
+            "source": "Fetch_LTR_E_1.R",
+            "target": "LTR_Data_E_1.csv"
+        },
+        {
+            "source": "cleandata.csv",
+            "target": "Fetch_LTR_E_2.R"
+        },
+        {
+            "source": "Fetch_LTR_E_2.R",
+            "target": "LTR_Data_E_2.csv"
+        },
+        {
+            "source": "LTR_Data_E_1.csv",
+            "target": "NPS_Function.R"
+        },
+        {
+            "source": "cleandata.csv",
+            "target": "Create_Aggregate_Dataframe.R"
+        },
+        {
+            "source": "Create_Aggregate_Dataframe.R",
+            "target": "Part_F_Aggregate_Output.csv"
+        },
+        {
+            "source": "cleandata.csv",
+            "target": "Create_Nonaggregate_Dataframe.R"
+        },
+        {
+            "source": "Create_Nonaggregate_Dataframe.R",
+            "target": "Part_F_Nonaggregate_Output.csv"
+        },
+        {
+            "source": "LTR_Data.csv",
+            "target": "NPS_Function_1.R"
+        },
+        {
+            "source": "LTR_Data_E_2.csv",
+            "target": "NPS_Function_2.R"
+        },
+        {
+            "source": "NPS_Function_2.R",
+            "target": "Part_E_2.csv"
+        },
+        {
+            "source": "NPS_Function_1.R",
+            "target": "NPS_Data_Part_D.csv"
+        },
+        {
+            "source": "cleandata.csv",
+            "target": "Samples.R"
         }
     ]
 }
